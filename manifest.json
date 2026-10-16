@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "디저트 로그",
+  "short_name": "디저트 로그",
+  "description": "방문한 디저트 카페와 사진을 기록하는 개인 로그",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f5f0",
+  "theme_color": "#f7f5f0",
+  "icons": [
+    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
